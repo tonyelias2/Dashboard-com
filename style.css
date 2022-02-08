@@ -27,7 +27,7 @@ body{
     height: 350px;
     background-color: transparent;
     position: absolute;
-    left: 30%;
+    left: 35%;
     top: 39.8%;
     transform: translateX(-50%) translateY(-50%);
     color: #fff;
@@ -35,20 +35,6 @@ body{
     border-radius: 0px;
   }
 
-  .loan-container{
-    width: 370px;
-    height: 350px;
-    background-color: transparent;
-    position: absolute;
-    left: 60%;
-    top: 43.5%;
-    transform: translateX(-50%) translateY(-50%);
-    color: #fff;
-    padding: 20px 0 0 100px;
-    border-radius: 0px;
-    
-    
-}
 
 input{
     width: 80%;
@@ -142,15 +128,21 @@ input:focus{
     width: 320px;
     background-color: transparent;
     position: absolute;
-    top: 43%;
+    top: 22%;
     left: 87%;
     transform: translateX(-50%) translateY(-50%);
     padding: 50px;
   }
 
 .clock-beirut{
-    position: absolute;
-    top: 15.5%;
-    left: 85%;
-    transform: translateX(-50%) translateY(-50%);
+  width: 370px;
+  height: 350px;
+  background-color: transparent;
+  position: absolute;
+  left: 65%;
+  top: 47.5%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #fff;
+  padding: 20px 0 0 100px;
+  border-radius: 0px;
 }
